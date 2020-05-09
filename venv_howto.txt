@@ -1,0 +1,7 @@
+python -m venv ./venv
+
+// activate in VSCode console
+source ./venv/Scripts/activate
+
+// activate in ConEmu
+ .\venv\Scripts\activate.bat
